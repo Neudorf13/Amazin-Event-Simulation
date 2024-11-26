@@ -1,0 +1,8 @@
+1 primero 101
+1 primero 855
+1 primero 755
+2 standard 1000
+5 primero 400
+6 standard 220
+7 primero 785
+7 primero 355
